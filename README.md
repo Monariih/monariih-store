@@ -1,10 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## ATTENTION
+
+This project isn't completed yet, im learning more about reactivity on next js and typescript, so, there are some errors on it.
+As well I'm very excited about working with typescript and react it is two new technologies to me, this was a greatfull oportunity to gain knowledge.
+
+## Deploy on Vercel
+
+Project is now valiable at vercel, just follow the link and tell me what do you think of it.
+
+- [Monariih-store](https://monariih-store.vercel.app/)
 
 ## Getting Started
 
 First, run the development server:
 
-```bash
+```bashhttps://github.com/Monariih/monariih-store
 npm run dev
 # or
 yarn dev
@@ -28,9 +37,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
