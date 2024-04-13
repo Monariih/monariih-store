@@ -15,6 +15,7 @@ const config: Config = {
       },
       colors: {
         mksBlue: '#0F52BA',
+        footerGray: '#EEEEEE',
       },
     },
   },
