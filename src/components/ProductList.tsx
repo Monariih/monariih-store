@@ -1,5 +1,4 @@
-import { useState, useEffect } from "react";
-
+'use client';
 export default function Home() {
 
   const getProducts = async () => {
