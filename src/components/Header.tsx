@@ -1,6 +1,6 @@
 export default function Header() { 
 	return (
-		<main>
+	<main>
 	  <header>
 	    <nav className="bg-white border-gray-200 px-4 lg:px-6 py-2.5 dark:bg-mksBlue">
 	      <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl h-16">
@@ -16,7 +16,7 @@ export default function Header() {
 	        </div>
 	      </div>
 	    </nav>
-	  </header>
+	  </header> 
 
 	  <div className="text-center">
 	    Monariih Store is a fictional online store that sells clothes, shoes,
