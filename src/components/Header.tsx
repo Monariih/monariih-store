@@ -17,11 +17,6 @@ export default function Header() {
 	      </div>
 	    </nav>
 	  </header> 
-
-	  <div className="text-center">
-	    Monariih Store is a fictional online store that sells clothes, shoes,
-	    and accessories.
-	  </div>
 	</main>
 	)
 }
